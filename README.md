@@ -19,7 +19,7 @@ your assignment. Right click `src` and go to New > Directory and select `main/ja
 **1.** In the main/java directory, create a class named `Words`.
 - Write a static method named `separateWords` that takes a `String` as a parameter and returns a `String`.
   The method should break the parameter into individual words based on capital letters.
-  The  method should print out each word (including the capital letter) on the same line, separated by spaces.
+  The method should return a String where each word (including the capital letter) is separated by spaces.
   You can assume that the parameter always starts with a capital letter.
     - Uncomment the tests in the `WordsTest` class (in the `test/java` directory). 
       Run the tests. Run the code analyzers and commit your code now.
